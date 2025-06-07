@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://is0383kk.github.io/Web-dev-tools/sitemap.xml
