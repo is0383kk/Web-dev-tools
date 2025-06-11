@@ -1,64 +1,76 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<!--   created with free sitemap generation system www.sitemapxml.jp   -->
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  -->
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/</loc>
-<priority>1.0</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/</loc>
+  <priority>1.0</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/markdown-editor</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/markdown-editor</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/text-counter</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/text-counter</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/json-formatter</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/text-diff-checker</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/xml-formatter</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/json-formatter</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/password-generator</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/xml-formatter</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/sitemap-generator</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/password-generator</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/qrcode-generator</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/sitemap-generator</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/json-yaml-interconversion</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/qrcode-generator</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/csv-json-interconversion</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/json-yaml-interconversion</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/unicode-convertor</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/csv-json-interconversion</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
 <url>
-<loc>https://is0383kk.github.io/Web-dev-tools/escape-unescape-interconversion</loc>
-<priority>0.8</priority>
-<lastmod>2025-06-09T23:24:53+09:00</lastmod>
+  <loc>https://is0383kk.github.io/Web-dev-tools/unicode-convertor</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
 </url>
+<url>
+  <loc>https://is0383kk.github.io/Web-dev-tools/escape-unescape-interconversion</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
+</url>
+<url>
+  <loc>https://is0383kk.github.io/Web-dev-tools/cron-parser</loc>
+  <priority>0.8</priority>
+  <lastmod>2025-06-11T18:20:01+09:00</lastmod>
+</url>
+
 </urlset>
