@@ -5,6 +5,8 @@ Next.js + TypeScript + Tailwind CSS + shadcn/ui を使い、GitHub Pages で静�
 
 公開 URL：https://is0383kk.github.io/Web-dev-tools/
 
+![](https://github.com/is0383kk/Web-dev-tools/sample.png)
+
 # 🚀 特徴
 
 各種便利ツールを内蔵（継続して追加予定）
